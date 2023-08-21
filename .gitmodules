@@ -1,0 +1,12 @@
+[submodule "eoa-session-key-contracts"]
+	path = eoa-session-key-contracts
+	url = https://github.com/gelatodigital/relay-session-key-contracts.git
+[submodule "eoa-session-key-ui"]
+	path = eoa-session-key-ui
+	url = https://github.com/gelatodigital/relay-session-key-ui.git
+[submodule "safe-session-key-ui"]
+	path = safe-session-key-ui
+	url = https://github.com/gelatodigital/relay-safe-session-key-ui.git
+[submodule "safe-session-key-contracts"]
+	path = safe-session-key-contracts
+	url = https://github.com/gelatodigital/relay-safe-session-key-contracts.git
